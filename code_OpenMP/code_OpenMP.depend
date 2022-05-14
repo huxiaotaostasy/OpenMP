@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1652436265 source:d:\vs project\code_openmp\main.cpp
+	"omp.h"
+	<iostream>
+	<time.h>
+	<immintrin.h>
+	<stdlib.h>
+	<algorithm>
+	<chrono>
+	<fstream>
+
